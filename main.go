@@ -34,6 +34,7 @@ import (
 
 const (
 	defaultPort = "50051"
+	AppVersion = "1.0.0"
 )
 
 var log *logrus.Logger
